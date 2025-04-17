@@ -12,26 +12,19 @@ This is a full-stack Airbnb-style rental application built using **Next.js**. Us
 - 🏠 **User Listings**  
   Add, edit, and delete your own property listings
 
-- 📅 **Bookings & Availability**  
-  Real-time booking system with date availability
-
 - 🔐 **Authentication**  
   Secure sign-up/login with NextAuth.js (supports Google, GitHub, and more)
 
 - 🗺️ **Interactive Map**  
   View property locations on an interactive map (Mapbox or Leaflet)
 
-- 💳 **Stripe Integration**  
-  Handle payments securely with Stripe checkout
-
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js, React, Tailwind CSS  
-- **Backend**: Prisma + PostgreSQL (or MongoDB)  
+- **Backend**: Prisma + MongoDB  
 - **Auth**: NextAuth.js  
-- **Payments**: Stripe  
 - **Deployment**: Vercel
 
 ---
